@@ -14,3 +14,4 @@ Further steps
 9. fill pipenv file 
 10. rename notebooks on github
 11. save model
+12. add comments
