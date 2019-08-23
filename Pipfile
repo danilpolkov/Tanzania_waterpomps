@@ -15,6 +15,7 @@ xgboost = "==0.90"
 catboost = "==0.16.5"
 lightgbm = "==2.2.3"
 category-encoders = "==2.0.0"
+tpot = "==0.10.2"
 
 [requires]
 python_version = "3.6"
