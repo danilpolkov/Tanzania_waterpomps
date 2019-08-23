@@ -6,6 +6,15 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+pygal = "==2.4.0"
+jupyter = "==1.0.0"
+pandas = "==0.25.0"
+matplotlib = "==2.1.0"
+scikit-learn = "==0.21.3"
+xgboost = "==0.90"
+catboost = "==0.16.5"
+lightgbm = "==2.2.3"
+category-encoders = "==2.0.0"
 
 [requires]
 python_version = "3.6"
