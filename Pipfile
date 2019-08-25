@@ -16,6 +16,7 @@ catboost = "==0.16.5"
 lightgbm = "==2.2.3"
 category-encoders = "==2.0.0"
 tpot = "==0.10.2"
+seaborn = "==0.9.0"
 
 [requires]
 python_version = "3.6"
